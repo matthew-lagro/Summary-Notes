@@ -1,0 +1,148 @@
+# Numerical Analysis Notes
+
+
+
+## Numerical Mathematics
+
+### Error
+
+### Computer Arithmetic
+
+#### Catestrophic Cancelation
+
+
+### Error Analysis
+
+#### Forward Error Analysis
+
+#### Backward Error Analysis
+
+
+### Sensitivity Analysis
+
+
+
+## Linear Algebra
+
+
+### Range, null space, etc
+
+
+### Matrix Factorization
+
+#### Gaussian elimination and LU factorization
+
+#### LU with partial pivoting
+
+#### QR Decomposition
+
+
+## Interpolation
+
+
+### Interpolating polynomials
+
+#### Lagrangian interpolation
+
+#### Newton interpolation
+
+##### Divided differences
+
+
+### Hermite Interpolation
+
+
+### Piecewise interpolation
+
+#### Piecewise linear 
+
+#### Piecewise cubic Hermite interpolation
+
+
+### Splines
+
+#### Cubic splines
+
+
+### Runge phenomenon and splines vs polynomials
+
+
+### Bernstein Polynomials and Weierstrass theorem
+
+
+
+## Linear algebra redux
+
+
+### Norms
+
+#### Induced operator norms
+
+
+### Inner product spaces
+
+#### Cauchy-Schwarz
+
+#### Gram Matrix
+
+#### Weighted innner products
+
+#### Gram-Schmidt process
+
+
+
+## Orthogonal Polynomials
+
+
+### Families of orthogonal polynomials
+
+#### Families of polynomials and Gram-Schmidt
+
+##### Uniqueness
+
+#### Legendere Polynomials
+
+#### Jacobi Polynomials
+
+#### Chebyshev Polynomials
+
+
+### Chebyshev polynomials
+
+#### Orthogonality
+
+#### $L^{\infty}$ minimality
+
+#### Chebyshev points
+
+#### Best approximation in supremum norm
+
+
+### Legendere polynomials
+
+#### Orthogonality
+
+#### $L^2$ minimality
+
+#### Normal equations
+
+#### Best approximation in $L^2$ norm
+
+#### Least squares as approximation in $\ell^2$ norm
+
+##### Haar condition and Gram matrix
+
+
+
+## Approximation By Trigonometric Functions
+
+
+### Trigonometric polynomials
+
+### Fourier coefficients
+
+### Discrete Fourier transform
+
+### Fast Fourier transform
+
+
